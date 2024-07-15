@@ -11,7 +11,7 @@ show_header() {
   clear
   echo "##############################################"
   echo "#                                            #"
-  echo "#               3sIT Installer               #"
+  echo "#               3SIT Installer               #"
   echo "#                                            #"
   echo "##############################################"
   echo ""
